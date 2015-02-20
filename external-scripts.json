@@ -15,5 +15,6 @@
   "hubot-trello",
   "hubot-darts",
   "hubot-business-cat",
-  "hubot-seen"
+  "hubot-seen",
+  "hubot-explainshell"
 ]
