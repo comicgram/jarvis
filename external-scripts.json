@@ -9,5 +9,15 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-thesimpsons",
+  "hubot-ambush",
+  "hubot-trello",
+  "hubot-darts",
+  "hubot-business-cat",
+  "hubot-seen",
+  "hubot-explainshell",
+  "hubot-victory",
+  "hubot-fliptable",
+  "hubot-tell"
 ]
